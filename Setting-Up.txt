@@ -1,4 +1,15 @@
+
+Setting Up Echocraft
+
+Four functions:
+• Tone control
+• Mixer
+• Feedback 
+• Delay
+
+
 Step 1: Setting up Projucer
+
 Download and Install Projucer: If you don't have Projucer installed, download it from the JUCE website and install it on your system.
 
 Create a New Project: Open Projucer and create a new project. Select the type of plugin you want to create (e.g., Audio Plugin).
@@ -52,5 +63,7 @@ Explore the Generated Files: Once in Xcode, you will see a set of generated sour
 Build and Run: Use the build and run commands in Xcode to compile your plugin. 
 
 Once the builds succeed, you can open the build folder to see the .VST3 file.
+
+
 
 
