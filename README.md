@@ -1,6 +1,6 @@
 # EchoCraft - A JUCE Audio Plugin
 
-## Submission By: Gurleen Dhaliwal
+## Submission by: Gurleen Dhaliwal
 
 ## CS 510 - SOUND/MUSIC
 
@@ -29,4 +29,4 @@ I conducted testing using a variety of audio sources, including vocals, and guit
 A simple usage example of EchoCraft could involve applying it to a dry vocal track to add depth and warmth. By adjusting the delay time to 300ms, setting the feedback to 40%, and blending in the effect with a 50% wet mix, the vocal track gains a more spacious quality that improves the overall mix.
 
 ### Reflections
-Creating of this plugin was both challenging and rewarding. After achieving the desired audio quality, it required extensive testing and refinement. While I am satisfied with the current state of the plugin, a future plab is to introduce more advanced features, such as tempo sync and modulation effects.
+Creating this plugin was both challenging and rewarding. After achieving the desired audio quality, it required extensive testing and refinement. While I am satisfied with the current state of the plugin, a future plan is to introduce more advanced features, such as tempo sync and modulation effects.
