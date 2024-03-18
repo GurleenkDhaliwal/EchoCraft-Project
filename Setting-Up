@@ -12,6 +12,35 @@ Set Plugin Settings:
 
 Configure the plugin format options (VST, VST3, AU, etc.).
 Set other options like plugin channel configurations and MIDI IO capabilities.
+
+JUCE MODULES USED:
+
+juce_audio_basics
+
+juce_audio_devices
+
+juce_audio_formats
+
+• juce_audio_plugin_client
+
+• juce_audio_processors
+
+• juce_audio_utils
+
+• juce_core
+
+• juce_data_structures
+
+• juce_dsp
+
+juce_events
+
+• juce_graphics
+
+• juce_gui_basics
+
+• juce_gui_extra
+
 Save and Open in IDE: Once you've configured all the options, save the project. Projucer will generate the necessary files. You can then open the project in Xcode directly from Projucer by clicking on the corresponding exporter and then the "Open in IDE" button.
 
 
